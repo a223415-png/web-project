@@ -19,21 +19,27 @@ ob_start();
             </div>
             <div class="carousel-inner rounded">
                 <div class="carousel-item active">
-                    <img src="images/mouse1.jpg" class="d-block w-100" alt="Ergonomic vertical mouse">
+                    <div class="ratio ratio-21x9">
+                        <img src="images/mouse1.jpeg" class="d-block w-100 h-100 object-fit-cover" alt="Ergonomic vertical mouse">
+                    </div>
                     <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
                         <h5>Comfort for Every Click</h5>
                         <p>A natural handshake position that reduces wrist strain.</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="images/mouse2.jpg" class="d-block w-100" alt="Wireless vertical mouse">
+                    <div class="ratio ratio-21x9">
+                        <img src="images/mouse2.jpg" class="d-block w-100 h-100 object-fit-cover" alt="Wireless vertical mouse">
+                    </div>
                     <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
                         <h5>Wireless Freedom</h5>
                         <p>Bluetooth and 2.4GHz vertical mice for your desk setup.</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="images/mouse3.jpg" class="d-block w-100" alt="Vertical mouse for left and right hand">
+                    <div class="ratio ratio-21x9">
+                        <img src="images/mouse3.jpg" class="d-block w-100 h-100 object-fit-cover" alt="Vertical mouse for left and right hand">
+                    </div>
                     <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
                         <h5>Right and Left Hand Models</h5>
                         <p>Find the right fit for your hand.</p>
